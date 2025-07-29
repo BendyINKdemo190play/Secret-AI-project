@@ -9,6 +9,9 @@
 которые можно интегрировать с **Ren'Py** (Python).  
 Проект засекречен — **все детали раскрою только после подписания NDA (Non-Disclosure Agreement — договора о неразглашении)**.
 
+> ❗ Проект находится на **раннем этапе** и разрабатывается на **волонтёрской/бесплатной основе**.  
+> Если ты хочешь стать частью амбициозной идеи и поработать ради портфолио, эксперимента или фанатизма — добро пожаловать.
+
 ---
 
 ### Цель
@@ -53,6 +56,9 @@ Hello everyone
 I'm looking for a team of developers capable of creating **neural networks for generating text and images**,  
 with integration into **Ren'Py** (Python).  
 The project is classified — **all details will be shared only after signing an NDA (Non-Disclosure Agreement)**.
+
+> ❗ This project is in **early development** and currently running on a **volunteer/unpaid basis**.  
+> If you're passionate about AI and want to collaborate for fun, experience, or portfolio — you're very welcome.
 
 ---
 
