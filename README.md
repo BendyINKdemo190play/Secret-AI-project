@@ -31,7 +31,6 @@
 - Python-разработчиков (особенно с опытом в Ren’Py)  
 - Специалистов по генерации текста (GPT, LLaMA и др.)  
 - Экспертов по генерации изображений (SD, Diffusion, кастомные пайплайны)  
-- Prompt-инженеров
 
 ---
 
@@ -79,7 +78,6 @@ No propaganda, banned, or illegal content.
 - Python developers (especially with Ren’Py experience)  
 - Text generation specialists (GPT, LLaMA, etc.)  
 - Image generation experts (SD, Diffusion, custom pipelines)  
-- Prompt engineers
 
 ---
 
