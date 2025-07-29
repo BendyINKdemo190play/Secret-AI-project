@@ -1,7 +1,7 @@
 # Secret-AI-project
 Searching for devs for an NDA-protected AI project.
 # Команда для проекта: Засекречено
-#(English version below)
+(English version below)
 
 ## 🇷🇺 Русская версия
 
